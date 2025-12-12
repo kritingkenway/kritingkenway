@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Perkenalkan Nama saya **Aditya Mochamad Akbar**. <br><br>
-Saya **Mahasiswa** di Perguruan Tinggi [Universitas Subang](https://unsub.ac.id).<br><br>
-Fakultas **Ilmu Komputer** Program Studi **Sistem Informasi**.<br><br>
-Pada Semester 6 ini saya mengikuti Program BKP Studi Independen **BANGKIT Cloud Computing Learning Path**.<br>
+<!-- Saya **Mahasiswa** di Perguruan Tinggi [Universitas Subang](https://unsub.ac.id)<br><br>
+Fakultas **Ilmu Komputer** Program Studi **Sistem Informasi**.<br><br> -->
+Saya Pernah mengikuti Program BKP Studi Independen **BANGKIT Cloud Computing Learning Path**.<br>
+Saat ini Sedang Mempelajari Ulang Materi-Materi Web Development dan Cloud Computing <br>
+Bermimpi mendapatkan Pekerjaan menjadi Web Developer & DevOps
 
 ### Github Statistic
 <p align="left">
